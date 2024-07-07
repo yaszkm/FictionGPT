@@ -1,1 +1,1 @@
-# PrinceGPT
+# FictionGPT
